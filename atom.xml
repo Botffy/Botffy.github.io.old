@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Árminternet]]></title>
   <link href="http://botffy.github.io/atom.xml" rel="self"/>
   <link href="http://botffy.github.io/"/>
-  <updated>2014-11-13T23:53:18+01:00</updated>
+  <updated>2014-11-14T00:33:05+01:00</updated>
   <id>http://botffy.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Scipiades Ármin]]></name>
+    <email><![CDATA[scipiades.armin@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
